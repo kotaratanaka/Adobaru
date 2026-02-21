@@ -1,0 +1,5 @@
+{
+  "name": "Office Layout Estimator",
+  "description": "A tool to generate office furniture layouts, calculate capacity, and estimate costs based on floor plans.",
+  "requestFramePermissions": []
+}
